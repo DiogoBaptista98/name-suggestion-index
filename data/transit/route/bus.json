@@ -2507,7 +2507,7 @@
       "displayName": "Carris Metropolitana",
       "id": "carrismetropolitana-b3b7db",
       "locationSet": {
-        "include": [[-9.2, 38.8, 45]]
+        "include": [[-9.2, 38.8, 70]]
       },
       "tags": {
         "network": "Carris Metropolitana",
