@@ -2039,7 +2039,7 @@
     {
       "displayName": "Steve Madden",
       "id": "stevemadden-22ceb3",
-      "locationSet": {"include": ["ca", "us"]},
+      "locationSet": {"include":["ca","us","pt"]},
       "tags": {
         "brand": "Steve Madden",
         "brand:wikidata": "Q25352034",
